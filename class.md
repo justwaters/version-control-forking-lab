@@ -1,3 +1,4 @@
 # Students
-John, Front-End Web Developer
-Sarah, Front-End Web Developer
+
+- John, Front-End Web Developer
+- Sarah, Front-End Web Developer
